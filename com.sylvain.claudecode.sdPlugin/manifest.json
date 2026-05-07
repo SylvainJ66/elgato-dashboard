@@ -1,0 +1,40 @@
+{
+  "Actions": [
+    {
+      "Controllers": ["Keypad"],
+      "Icon": "imgs/actions/agent/icon",
+      "Name": "Agent Button",
+      "States": [
+        {
+          "Image": "imgs/actions/agent/key",
+          "TitleAlignment": "bottom"
+        }
+      ],
+      "UUID": "com.sylvain.claudecode.agent-button",
+      "UserTitleEnabled": false
+    }
+  ],
+  "Author": "Sylvain Jouglard",
+  "Category": "Claude Code",
+  "CategoryIcon": "imgs/plugin/category-icon",
+  "CodePath": "bin/plugin.js",
+  "Description": "Monitor Claude Code agents from your Stream Deck.",
+  "Icon": "imgs/plugin/marketplace",
+  "Name": "Claude Code Dashboard",
+  "Nodejs": {
+    "Version": "20",
+    "Debug": "enabled"
+  },
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "6.6"
+  },
+  "UUID": "com.sylvain.claudecode",
+  "Version": "0.1.0"
+}

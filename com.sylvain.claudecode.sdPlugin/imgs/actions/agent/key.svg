@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <rect width="72" height="72" rx="8" fill="#1a1a2e"/>
+  <circle cx="36" cy="30" r="14" fill="#555"/>
+  <text x="36" y="60" text-anchor="middle" fill="#888" font-family="Arial" font-size="10">Idle</text>
+</svg>
